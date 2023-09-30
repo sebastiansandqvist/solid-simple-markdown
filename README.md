@@ -1,3 +1,7 @@
+# A port of the React `simple-markdown` library for SolidJS
+
+---
+
 🚚 _**As of April 2022 this repo is no longer the home of `simple-markdown`. The contents and development activity have moved into the Perseus repo [here](https://github.com/Khan/perseus/tree/main/packages/simple-markdown).**_
 
 # simple-markdown
